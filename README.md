@@ -32,7 +32,7 @@ This project showcases an interactive **Power BI Dashboard** built to analyze mo
 
 ## 📷 Dashboard Preview
 
-![Dashboard](my motrola power bi dashboard.png)
+![Dashboard](my%20motrola%20power%20bi%20dashboard.png)
 
 ---
 

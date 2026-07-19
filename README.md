@@ -21,4 +21,4 @@ This Power BI dashboard analyzes Motorola mobile sales data and provides busines
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](my motrola power bi dashboard.png)
